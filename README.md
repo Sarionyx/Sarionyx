@@ -13,8 +13,8 @@
 
 ### À propos
 
-- 🎮 Je crée des jeux vidéo
-- 🧊 Je fais de la 3D sur Blender
+- 🎮 Video Games sometimes
+- 🧊 New to Blender
 
 ### Outils
 
